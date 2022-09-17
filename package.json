@@ -1,0 +1,26 @@
+{
+  "name": "setec2022_minicurso_nodejs",
+  "version": "1.0.0",
+  "description": "Minicurso de nodeJS ministrado na semana de tecnologia da FATEC Presidente Prudente em 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martarelli/Setec2022_Minicurso_NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martarelli/Setec2022_Minicurso_NodeJS/issues"
+  },
+  "homepage": "https://github.com/Martarelli/Setec2022_Minicurso_NodeJS#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
